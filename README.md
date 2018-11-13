@@ -1,6 +1,6 @@
 ## ESLint, EditorConfig and gitignore Configuration settings for projects in VS Studio Code
 
-https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+#### https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
 
 First, install the ESLint command line tool:
 
@@ -8,7 +8,7 @@ First, install the ESLint command line tool:
 
 Then install the ESLint extension by going to the Extensions view and typing 'eslint'.
 
-ESLint extension
+### ESLint extension
 
 Once the ESLint extension is installed and VS Code reloaded, you'll want to create an ESLint configuration file .eslintrc.json. You can create one using the extension's ESLint: Create ESLint configuration command from the Command Palette (⇧⌘P).
 
