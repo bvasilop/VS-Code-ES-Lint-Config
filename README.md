@@ -1,4 +1,4 @@
-## ESLint, EditorConfig and gitignore Configuration settings for projects in VS Studio Code
+## ESLint, EditorConfig and .gitignore Configuration settings for projects in VS Studio Code
 
 #### https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
 
